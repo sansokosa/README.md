@@ -10,7 +10,7 @@
 
 ## 👾 Stack:
 ![Linux](https://img.shields.io/badge/Linux-DAA520.svg?style=for-the-badge&logo=Linux&logoColor=white)
-![bash](https://img.shields.io/badge/bash-808080.svg?style=for-the-badge&logo=gnubash&logoColor=white) 
+![Shell Script](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-1E90FF.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Network](https://img.shields.io/badge/network-%233db7ed.svg?style=for-the-badge&logo=mikrotik&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-FF7F50.svg?style=for-the-badge&logo=Git&logoColor=white) 
@@ -19,31 +19,31 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Ansible](https://img.shields.io/badge/Ansible-000000.svg?style=for-the-badge&logo=Ansible&logoColor=white)
-![Shell Script](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 ### 📊 Stats
 
 <picture>
   <source
-    srcset="https://stats.k6s.io/api?username=kutovoys&show_icons=true&card_width=350&theme=tokyonight"
+    srcset="https://stats.k6s.io/api?username=sansokosa&show_icons=true&card_width=350&theme=night"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://stats.k6s.io/api?username=kutovoys&show_icons=true&card_width=350"
+    srcset="https://stats.k6s.io/api?username=sansokosa&show_icons=true&card_width=350"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://stats.k6s.io/api?username=kutovoys&show_icons=true&card_width=350" />
+  <img src="https://stats.k6s.io/api?username=sansokosa&show_icons=true&card_width=350" />
 </picture>
 <picture>
   <source
-    srcset="https://streak.k6s.io?user=kutovoys&card_width=350&theme=tokyonight"
+    srcset="https://streak.k6s.io?user=sansokosa&card_width=350&theme=night"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak.k6s.io?user=kutovoys&card_width=350"
+    srcset="https://streak.k6s.io?user=sansokosa&card_width=350"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://streak.k6s.io?user=kutovoys&card_width=350&theme=tokyonight" />
+  <img src="https://streak.k6s.io?user=sansokosa&card_width=350&theme=night" />
 </picture>
 
 ### 🫸 Connect
