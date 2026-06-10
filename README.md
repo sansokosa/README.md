@@ -5,7 +5,7 @@
 * 📨 Mail: hooward@proton.me 
 * 🔧 Continuous learner, knowledge sharer and contributor
 
-## 👾 Stack:
+## 👾 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-DAA520.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-1E90FF.svg?style=for-the-badge&logo=docker&logoColor=white) 
@@ -27,7 +27,7 @@
     srcset="https://stats.k6s.io/api?username=sansokosa&show_icons=true&card_width=350"
     media="(prefers-color-scheme: white), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://stats.k6s.io/api?username=sansokosa&show_icons=true&card_width=350" />
+  <img src="https://stats.k6s.io/api?usernrframe=sansokosa&show_icons=true&card_width=350" />
 </picture>
 <picture>
   <source
