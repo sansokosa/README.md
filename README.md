@@ -1,7 +1,6 @@
 # Welcome. I'm Denis
 
-## In general: Systems Engineer
----------------
+In general: Systems Engineer
 
 * ⛓️‍💥 Also independent specialist, employee and student
 * 📨 Mail: hooward@proton.me 
@@ -20,7 +19,6 @@
 ![Ansible](https://img.shields.io/badge/Ansible-000000.svg?style=for-the-badge&logo=Ansible&logoColor=white)
 
 ### 📊 Stats
-
 <picture>
   <source
     srcset="https://stats.k6s.io/api?username=sansokosa&show_icons=true&card_width=350&theme=dark"
@@ -45,6 +43,5 @@
 </picture>
 
 ### 🫸 Connect
-
 [![hooward@proton.me](https://img.shields.io/badge/hooward@proton.me%20-%23E62B1E.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:hooward@proton.me)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sl4ktra)
